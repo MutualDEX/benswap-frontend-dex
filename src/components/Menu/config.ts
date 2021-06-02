@@ -12,12 +12,12 @@ const config: MenuEntry[] = [
     initialOpenState: true,
     items: [
       {
-        label: 'Exchange',
-        href: '/swap'
+        label: 'PCS DEX',
+        href: 'https://exchange.benswap.finance/'
       },
       {
-        label: 'Liquidity',
-        href: '/pool'
+        label: 'BenSwap DEX',
+        href: '/swap'
       }
     ]
   },
@@ -62,6 +62,10 @@ const config: MenuEntry[] = [
       {
         label: "LiveCoinWatch",
         href: "https://www.livecoinwatch.com/price/GoldenBen-GBEN",
+      },
+      {
+        label: "vfat.tools",
+        href: "https://vfat.tools/bsc/benswap/",
       },
     ],
   },
