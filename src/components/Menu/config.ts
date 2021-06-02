@@ -17,7 +17,8 @@ const config: MenuEntry[] = [
       },
       {
         label: 'BenSwap DEX',
-        href: '/swap'
+        href: '/swap',
+        isActive: true
       }
     ]
   },
