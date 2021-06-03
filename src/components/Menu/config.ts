@@ -12,7 +12,7 @@ const config: MenuEntry[] = [
     initialOpenState: true,
     items: [
       {
-        label: 'PCS DEX',
+        label: 'Pancake DEX',
         href: 'https://exchange.benswap.finance/'
       },
       {
@@ -48,7 +48,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: "TechRate",
-        href: "https://benswap.finance/files/TechrateAudit.pdf",
+        href: "https://github.com/TechRate/Smart-Contract-Audits/blob/main/Benswap.pdf",
       },
     ],
   },
